@@ -2,4 +2,4 @@
 
 * Bayesian Networks
 * Markov Networks (special case: CRF)
-* Variable Elimination & Belief Propagation <== UNDER CONSTRUCTION
+* Log-Linear Models, Knowledge Engineering and Variable Elimination <== UNDER CONSTRUCTION
