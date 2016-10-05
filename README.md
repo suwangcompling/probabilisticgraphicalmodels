@@ -6,6 +6,6 @@
 * Log-Linear Models and Knowledge Engineering 
 * Inference
 
-# libpgm, pymc, opengm, etc. (a combination of tools)
+## libpgm, pymc, opengm, etc. (a combination of tools)
 * pgm_implementation
 
